@@ -73,6 +73,53 @@ npm install
 npm start
 ```
 
+
+##parent tree
+```
+GalaxyLauncherWindow
+│
+├── NavigationBar
+│   ├── Logo
+│   ├── HomeButton
+│   ├── PlayButton
+│   ├── AccountButton
+│   ├── ModsButton
+│   └── SettingsButton
+│
+├── MainContent
+│   │
+│   ├── HomePage
+│   │   ├── BackgroundPanel
+│   │   ├── PlayerCard
+│   │   │   ├── UsernameLabel
+│   │   │   └── LaunchButton
+│   │   ├── StatusPanel
+│   │   └── ConsolePanel
+│   │
+│   ├── PlayPage
+│   │   ├── VersionSelector
+│   │   ├── InstallButton
+│   │   └── LaunchButton
+│   │
+│   ├── AccountPage
+│   │   ├── LoginPanel
+│   │   └── ProfilePanel
+│   │
+│   ├── ModsPage
+│   │   ├── ModList
+│   │   └── InstallModButton
+│   │
+│   └── SettingsPage
+│       ├── DirectoryInput
+│       ├── JavaPathInput
+│       ├── MinRamSlider
+│       ├── MaxRamSlider
+│       ├── SaveButton
+│       ├── VersionManager
+│       └── DownloadVersionPanel
+│
+└── Footer
+
 ## 📁 Project Structure
 
 ```
