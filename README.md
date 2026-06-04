@@ -29,7 +29,7 @@ A modern, lightweight, and powerful Minecraft launcher built for players who wan
 
 Download the latest release from the **Releases** page:
 
-https://github.com/YOUR_USERNAME/GalaxyLauncher/releases
+https://github.com/batbleseed/GalaxyLauncher/releases
 
 ## ⚙️ Installation
 
