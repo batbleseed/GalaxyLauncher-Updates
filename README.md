@@ -119,6 +119,7 @@ GalaxyLauncherWindow
 │       └── DownloadVersionPanel
 │
 └── Footer
+```
 
 ## 📁 Project Structure
 
