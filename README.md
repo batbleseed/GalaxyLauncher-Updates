@@ -1,4 +1,4 @@
-# 🌌 Galaxy Launcher
+# 🌌 orbital laucher
 
 A modern, lightweight, and powerful Minecraft launcher built for players who want speed, simplicity, and customization.
 
@@ -35,7 +35,7 @@ https://github.com/batbleseed/GalaxyLauncher/releases
 
 1. Download the latest version.
 2. Extract the ZIP file.
-3. Run `GalaxyLauncher.exe`.
+3. Run `orbitallaucher.exe`.
 4. Select your Minecraft version.
 5. Click **Play**.
 
@@ -67,7 +67,7 @@ Galaxy Launcher automatically checks for updates on startup and downloads new ve
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/GalaxyLauncher.git
+git clone https://github.com/YOUR_USERNAME/orbitallaucher.git
 cd GalaxyLauncher
 npm install
 npm start
